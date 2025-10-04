@@ -36,7 +36,7 @@ public class DateFormatPerformanceComparison {
 
 		}
 
-		//@Override
+		@Override
 		public void run() {
 			try {
 				Date configDate = new Date();
